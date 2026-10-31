@@ -1,0 +1,10 @@
+{
+  "name": "Futsal Subs",
+  "short_name": "Futsal Subs",
+  "description": "Fair positions and substitutions for kids' futsal.",
+  "start_url": "./#plan",
+  "display": "standalone",
+  "background_color": "#eef1f5",
+  "theme_color": "#1f3a5f",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
